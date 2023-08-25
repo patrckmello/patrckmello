@@ -2,4 +2,5 @@
 Sou estudante de programação 👨🏻‍💻
 
 • Aperfeiçoando JavaScript ❤
+
 • Atualmente estudando HTML e CSS
